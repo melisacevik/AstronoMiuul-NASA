@@ -1,6 +1,8 @@
 
 ![astronot](https://github.com/melisacevik/AstronoMiuul-NASA/assets/113050206/51a5aeeb-6ce8-4964-8df6-524bbc3db5e0)
 
+https://astronomiuul.streamlit.app/
+
 # AstronoMiuul 👩🏻‍🚀 
 
 Bu proje, dört kişilik bir ekiple NASA verileri üzerinde yenilikçi bir yaklaşım sergileyerek bilimsel derinlik kazandırdığımız bir çalışmadır. Python ve çeşitli kütüphaneler kullanarak, asteroitlerle ilgili çeşitli zorlu sorunlara çözüm üretmeyi hedefledik.
